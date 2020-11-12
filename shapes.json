@@ -1,0 +1,12 @@
+{"shapes":[
+  {"type": "Circle",   "left":  1,  "top":  1, "right":  21, "bottom":  21, "x":  -3, "y":   5, "rotation":    1, "color":    -65536, "borders": "PassThru", "size": "Large", "score": 10, "multiplier": 2 , "children": 2 },
+  {"type": "Square",   "left":  1410,  "top":  25, "right":  1439, "bottom":  50, "x":  -3, "y":   4, "rotation":  0.5, "color":  16711935, "borders": "PassThru", "size": "Large", "score": 10, "multiplier": 4 , "children": 4 },
+  {"type": "Triangle", "left": 1,  "top": 335, "right": 10, "bottom": 370, "x": 0.2, "y": 0.1, "rotation":    1, "color":      -256, "borders": "PassThru", "size": "Large", "score": 10, "multiplier": 4 , "children": 3 },
+  {"type": "Triangle",     "left": 1399,  "top": 400, "right": 1439, "bottom": 420, "x":   4, "y":  -3, "rotation": -0.5, "color":        16773632, "borders": "PassThru", "size": "Large", "score": 3, "multiplier": 10 , "children": 3 },
+  {"type": "Circle",   "left": 800,  "top": 1, "right": 810, "bottom": 10, "x":   2, "y":  -3, "rotation":    1, "color": -16711936, "borders": "Rebound", "size": "Large", "score": 10, "multiplier": 4 , "children": 3  },
+  {"type": "Square",   "left":  35,  "top":  1, "right":  50, "bottom":  20, "x":   2, "y":  -2, "rotation": -0.5, "color":   8388736, "borders": "Rebound", "size": "Large", "score": 10, "multiplier": 3 , "children": 2  },
+  {"type": "Triangle", "left": 1,  "top": 100, "right": 20, "bottom": 120, "x":   0, "y":   5, "rotation":    4, "color":       255, "borders": "Rebound", "size": "Large", "score": 10, "multiplier": 4 , "children": 3  },
+  {"type": "Circle", "left": 775,  "top": 775, "right": 800, "bottom": 800, "x":   0, "y":   5, "rotation":    4, "color":       255, "borders": "Rebound", "size": "Large", "score": 10, "multiplier": 3 , "children": 1  },
+  {"type": "Circle",     "left":  1399,  "top":  300, "right":  1439, "bottom":  340, "x":  1, "y":   0, "rotation":  0, "color":  -1, "borders": "PassThru", "size": "Large", "score": 10, "multiplier": 4 , "children": 3  }
+  {"type": "Ship",     "left":  1399,  "top":  100, "right":  1439, "bottom":  120, "x":  1, "y":   0, "rotation":  0, "color":  -1, "borders": "PassThru", "size": "Medium", "score": 20, "multiplier": 5 , "children": 10  }
+]}

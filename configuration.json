@@ -1,0 +1,3 @@
+{"game":[
+  {"framespersecond": 40, "repeatkeyspeed": 100, "width": 1500, "height": 800, "shapes": 5, "shipwidth": 20, "shipheight": 30, "shotspeed": 3, "shotdiameter": 4.0, "shotlifetime": 55, "forwardthrust": 0.4, "reversethrust": 0.4, "friction": 0.01, "leftright": 10.0, "color": -256, "borders": "PassThru"  }
+]}
